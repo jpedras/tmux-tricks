@@ -1,5 +1,6 @@
 # tmux-tricks
-Usefull tmux commands
+
+Some usefull tmux commands assuming default config.
 
 ## Select part of buffer and paste into vi
 
